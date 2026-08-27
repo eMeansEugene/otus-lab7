@@ -1,0 +1,5 @@
+<map id="FileObserver" name="FileObserver">
+<area shape="rect" id="Node000001" title="Наблюдатель, сохраняющий содержимое готового блока команд в файл." alt="" coords="5,139,161,224"/>
+<area shape="rect" id="Node000002" href="$classIObserver.html" title="Интерфейс подписчика на события завершения блока команд." alt="" coords="5,5,161,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,104,86,138,81,138,81,104"/>
+</map>

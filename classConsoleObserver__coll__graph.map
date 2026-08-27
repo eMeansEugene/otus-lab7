@@ -1,0 +1,5 @@
+<map id="ConsoleObserver" name="ConsoleObserver">
+<area shape="rect" id="Node000001" title="Наблюдатель, выводящий содержимое готового блока команд в stdout." alt="" coords="5,139,167,224"/>
+<area shape="rect" id="Node000002" href="$classIObserver.html" title="Интерфейс подписчика на события завершения блока команд." alt="" coords="8,5,164,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,104,89,138,83,138,83,104"/>
+</map>

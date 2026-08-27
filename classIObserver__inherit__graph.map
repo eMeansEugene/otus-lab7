@@ -1,0 +1,7 @@
+<map id="IObserver" name="IObserver">
+<area shape="rect" id="Node000001" title="Интерфейс подписчика на события завершения блока команд." alt="" coords="99,5,255,91"/>
+<area shape="rect" id="Node000002" href="$classConsoleObserver.html" title="Наблюдатель, выводящий содержимое готового блока команд в stdout." alt="" coords="5,139,167,224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,103,117,140,113,137,138,100"/>
+<area shape="rect" id="Node000003" href="$classFileObserver.html" title="Наблюдатель, сохраняющий содержимое готового блока команд в файл." alt="" coords="191,139,347,224"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,100,242,137,237,140,211,103"/>
+</map>
