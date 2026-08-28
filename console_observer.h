@@ -18,8 +18,9 @@ public:
      */
     void OnBlockComplete(const std::vector<std::string> &commands, time_t) override {
         std::cout << "bulk: ";
-        for (const auto &item: commands) {
-            std::cout << item << ' ';
+        for (size_t i = 0; i < commands.size(); i++) {
+            if (i != 0) std::cout << ", ";
+            std::cout << commands[i];
         }
         std::cout << std::endl;
     }

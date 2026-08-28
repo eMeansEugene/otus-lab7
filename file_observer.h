@@ -31,8 +31,10 @@ public:
             return;
         }
         file << "bulk: ";
-        for (auto &command : commands) {
-            file << command << ' ';
+
+        for (size_t i = 0; i < commands.size(); i++) {
+            if (i != 0) file << ", ";
+            file << commands[i];
         }
         file << "\n";
     }
